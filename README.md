@@ -1,6 +1,11 @@
 # Distracted_Driver_Detection
 开车状态识别
 
+# 参考
+- https://github.com/ypwhs/DogBreed_gluon
+- https://www.kaggle.com/c/state-farm-distracted-driver-detection/discussion/20747
+- http://zh.gluon.ai/chapter_convolutional-neural-networks/densenet-gluon.html
+
 # 驾驶状态分类
 ## 环境说明
 - python3 
